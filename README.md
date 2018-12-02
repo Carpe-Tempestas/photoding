@@ -6,3 +6,5 @@ Origin Story: In 2003, we experienced "Tornado Tuesday" in South Dakota. That in
 As I was a very young developer at this time, you'll see the code is pretty rough unfortunately with little/no unit testing. It needs work - architecturally and functionally. It has an underlying engine using serializable XML files to serve as the pattern retainers for photo manipulation and organization.
 
 If you'd like to join the team, please let me know.
+
+If you'd like to donate some money for all the effort, check out https://paypal.me/carpetempestas.
