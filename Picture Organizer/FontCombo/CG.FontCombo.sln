@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG.FontCombo", "CG.FontCombo.csproj", "{FD652680-30B4-44B6-AE67-9128990A7905}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FD652680-30B4-44B6-AE67-9128990A7905}.Debug.ActiveCfg = Debug|.NET
+		{FD652680-30B4-44B6-AE67-9128990A7905}.Debug.Build.0 = Debug|.NET
+		{FD652680-30B4-44B6-AE67-9128990A7905}.Release.ActiveCfg = Release|.NET
+		{FD652680-30B4-44B6-AE67-9128990A7905}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
